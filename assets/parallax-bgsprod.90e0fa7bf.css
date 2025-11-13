@@ -25,12 +25,12 @@
 }
 
 body {
-  background-color: #2f122e;
-  font-family: Poppins, sans-serif;
-  color: #e4b3a3;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 400;
+    background-color: #052910;
+    font-family: Poppins, sans-serif;
+    color: #e4b3a3;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
 }
 
 h1 {
@@ -236,7 +236,7 @@ p {
 
 .heading-content-h2 {
   margin-bottom: 0rem;
-  background-image: url("https://assets.website-files.com/607bec7082b45011f6bea82e/607bec7082b450b3cabea838_bg.png");
+  background-image: url("../assets/images/639d6ed3598a9c40f9a5d680_hero-01.png");
   background-position: 50% 0%;
   background-size: cover;
   background-attachment: scroll;
@@ -465,6 +465,7 @@ p {
   font-size: 4rem;
   line-height: 4rem;
   text-transform: uppercase;
+    color: #004c34;
 }
 
 .container {
